@@ -14,7 +14,7 @@ BG_P = '\033[0;37;44m'
 BG_K = '\033[0;37;45m'
 
 dict = {
-	"FirstMsg" :   "		WELCOME TO Insta-hack TOOLS\n		How Are You Doing ? ",
+	"FirstMsg" :   "		WELCOME TO user \n		How Are You Doing ? ",
 	"Answer" : " I Hope You're Good",
 	"Spaces" : "\n",
 	"No Internet" : " You Are Not Connected ",
