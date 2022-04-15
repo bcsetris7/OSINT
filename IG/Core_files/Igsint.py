@@ -226,11 +226,11 @@ def MirrorInfo(StoryAnswer, LiveAnswer, Data):
 	ProfilePicEditSyncProps(Data, UserName)
 	
 	####  DARK DATA ####
-	print (f'{BG_R} DATA TERDALAM {W}')
-	time.sleep(2)
-	LogginPageId(Data, UserName)
-	Fbid(Data["graphql"]["user"], UserName)
-	ConnectedFbPage(Data["graphql"]["user"], UserName)
+	#print (f'{BG_R} DATA TERDALAM {W}')
+	#time.sleep(2)
+	#LogginPageId(Data, UserName)
+	#Fbid(Data["graphql"]["user"], UserName)
+	#ConnectedFbPage(Data["graphql"]["user"], UserName)
 	
 # RUN
 main(session)
